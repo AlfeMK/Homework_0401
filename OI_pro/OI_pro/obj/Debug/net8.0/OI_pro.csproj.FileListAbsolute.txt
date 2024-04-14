@@ -1,0 +1,14 @@
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\bin\Debug\net8.0\OI_pro.exe
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\bin\Debug\net8.0\OI_pro.deps.json
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\bin\Debug\net8.0\OI_pro.runtimeconfig.json
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\bin\Debug\net8.0\OI_pro.dll
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\bin\Debug\net8.0\OI_pro.pdb
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.AssemblyInfoInputs.cache
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.AssemblyInfo.cs
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.csproj.CoreCompileInputs.cache
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.dll
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\refint\OI_pro.dll
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.pdb
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\OI_pro.genruntimeconfig.cache
+C:\Users\TowerLaptop\source\repos\OI_pro\OI_pro\obj\Debug\net8.0\ref\OI_pro.dll
